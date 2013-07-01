@@ -1,0 +1,32 @@
+#Sat Jun 22 10:42:33 CEST 2013
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.advanced.options=
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.cdt.configuration=CPPTEST_USE_ACTIVE_CONFIG
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.c.win32.x86=gcc
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.cpp.win32.x86=g++
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.win32.x86=gcc_4_5
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.win32.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.connected.6x.projects=
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.dependency.files.paths=${project_loc}/Makefile
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.dsp.env.var.mode=ENV_PATCH_PREPEND_MODE
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.edg.multibyte.chars.is.source.handling=AUTO
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.evc.env.var.mode=ENV_PATCH_PREPEND_MODE
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.extractor.id=cdt_extractor_id
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.linker.command.win32.x86=g++
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.linker.options.win32.x86=${cpptest\:original_options}
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.make.command.line=make -i -B CXX\=${CPPTEST_SCAN} CC\=${CPPTEST_SCAN} LD\=${CPPTEST_SCAN}
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.make.scan.hash.code.validation=true
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.make.working.dir=${project_loc}
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.make_always_build=false
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.ode_auto_scan_mode=on_changes
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.ode_delete_bdf_postaction=false
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.ode_incremental_build=false
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.ode_options_dir=${project_loc}/cpptestscan.bdf
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.preference.store.version=1.1
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.run_orig_cmd_for_parallel_proj_bdf=true
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.runtime.location=${cpptest\:engine_loc}/runtime
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.synchronize_with_project_settings=true
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.test.case.location.patterns=*
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.test.ware.location=${workspace_loc}/.cpptest/${project_name}
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.vc71.configuration=CPPTEST_USE_ACTIVE_CONFIG
+/TegraTry//com.parasoft.xtest.checkers.api.cpp.options.working.dir=${project_loc}
+project.path=/TegraTry
